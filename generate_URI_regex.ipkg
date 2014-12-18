@@ -1,0 +1,6 @@
+package generate_URI_regex
+
+modules    = main
+executable = generate_URI_regex
+main       = generate_URI_regex
+sourcedir  = src

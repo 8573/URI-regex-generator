@@ -1,0 +1,11 @@
+
+URI-regex-generator
+======================================================================
+
+A utility program for generating [regular expressions] [regexes] for
+matching [Uniform Resource Identifiers] [URIs] (specifically, the
+`<URI>` rule defined by [IETF RFC 3986]).
+
+[regexes]: <https://en.wikipedia.org/wiki/Regular_expression>
+[URIs]: <https://en.wikipedia.org/wiki/Uniform_resource_identifier>
+[IETF RFC 3986]: <https://tools.ietf.org/html/rfc3986>
